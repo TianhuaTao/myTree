@@ -1,6 +1,6 @@
 # myTree
 ```
-Usage: tree [<directory list>] [-d] [-c] [-f filename] [-o filename] [-l level] [--help] [--version]
+Usage: myTree [<directory list>] [-d] [-c] [-f filename] [-o filename] [-l level] [--help] [--version]
 [directory …] expand directory as root (or use cwd as root if not given)
 [-d] Print directories only
 [-c] Print directories in green
